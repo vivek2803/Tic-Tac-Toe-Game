@@ -30,7 +30,7 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
-    color: #d6d662;
+    color:#fff;
     background-color: rgb(209, 114, 114);
     cursor:pointer;
 }
